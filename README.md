@@ -1,4 +1,3 @@
-![Header](https://github.com/m-zagornyak/Postal5/blob/main/assets/gitz.png)
 
 ## I'm Backend and devops developer
 
