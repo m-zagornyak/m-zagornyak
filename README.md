@@ -1,5 +1,5 @@
 
-## I'm Backend and devops developer
+## I'm Front-end and Backend
 
 
 ## Languages and Tools
